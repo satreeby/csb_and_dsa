@@ -1,0 +1,10 @@
+a b 60
+a k 50
+c b 45
+b h 52
+c h 42
+k h 65
+e h 50
+e k 40
+d e 70
+d h 30

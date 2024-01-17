@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "*.m": "matlab",
+        "*.styl": "stylus",
+        "ostream": "cpp"
+    }
+}
